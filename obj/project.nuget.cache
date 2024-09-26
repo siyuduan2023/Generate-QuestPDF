@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JRrM992vrRY=",
+  "success": true,
+  "projectFilePath": "/Users/siyu/Documents/Work/2024_SideProjects/QuestPDF/Generate-QuestPDF/Generate-QuestPDF.csproj",
+  "expectedPackageFiles": [
+    "/Users/siyu/.nuget/packages/questpdf/2024.7.3/questpdf.2024.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}
