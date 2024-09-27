@@ -1,6 +1,7 @@
 ﻿using QuestPDF.Fluent;
 using QuestPDF.Helpers;
 using QuestPDF.Infrastructure;
+using QuestPDF.Previewer;
 
 QuestPDF.Settings.License = LicenseType.Community;
 // code in your main method
@@ -36,4 +37,5 @@ Document.Create(container =>
             });
     });
 })
-.GeneratePdf("hello.pdf");
+.ShowInPreviewer();
+//.GeneratePdf("hello.pdf");

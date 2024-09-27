@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Generate-QuestPDF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75978aeab395e82eb4984d0463e6f9855495b675")]
 [assembly: System.Reflection.AssemblyProductAttribute("Generate-QuestPDF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Generate-QuestPDF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

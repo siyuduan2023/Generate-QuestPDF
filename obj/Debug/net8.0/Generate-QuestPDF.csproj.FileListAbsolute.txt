@@ -41,3 +41,4 @@
 /Users/siyu/Documents/Work/2024_SideProjects/QuestPDF/Generate-QuestPDF/bin/Debug/net8.0/runtimes/win-x86/native/QuestPdfSkia.dll
 /Users/siyu/Documents/Work/2024_SideProjects/QuestPDF/Generate-QuestPDF/obj/Debug/net8.0/Generate-QuestPDF.csproj.AssemblyReference.cache
 /Users/siyu/Documents/Work/2024_SideProjects/QuestPDF/Generate-QuestPDF/obj/Debug/net8.0/Generate.40935DF2.Up2Date
+/Users/siyu/Documents/Work/2024_SideProjects/QuestPDF/Generate-QuestPDF/obj/Debug/net8.0/Generate-QuestPDF.sourcelink.json
