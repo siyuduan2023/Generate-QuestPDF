@@ -129,11 +129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/siyu/Documents/Work/2024_SideProjects/QuestPDF/Generate-QuestPDF/Generate-QuestPDF.csproj",
+      "projectUniqueName": "/Users/siyu/Documents/WorkandSideproject/2024_SideProjects/QuestPDF/Generate-QuestPDF/Generate-QuestPDF.csproj",
       "projectName": "Generate-QuestPDF",
-      "projectPath": "/Users/siyu/Documents/Work/2024_SideProjects/QuestPDF/Generate-QuestPDF/Generate-QuestPDF.csproj",
+      "projectPath": "/Users/siyu/Documents/WorkandSideproject/2024_SideProjects/QuestPDF/Generate-QuestPDF/Generate-QuestPDF.csproj",
       "packagesPath": "/Users/siyu/.nuget/packages/",
-      "outputPath": "/Users/siyu/Documents/Work/2024_SideProjects/QuestPDF/Generate-QuestPDF/obj/",
+      "outputPath": "/Users/siyu/Documents/WorkandSideproject/2024_SideProjects/QuestPDF/Generate-QuestPDF/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/siyu/.nuget/NuGet/NuGet.Config"

@@ -11,12 +11,12 @@ Document.Create(container =>
     {
         page.Size(PageSizes.A4);
         page.Margin(2, Unit.Centimetre);
-        page.PageColor(Colors.White);
+        page.PageColor(Colors.BlueGrey.Darken4);
         page.DefaultTextStyle(x => x.FontSize(20));
 
         page.Header()
-            .Text("Hello PDF!")
-            .SemiBold().FontSize(36).FontColor(Colors.Blue.Medium);
+            .Text("INVOICE")
+            .ExtraBlack().FontSize(40).FontColor(Colors.Pink.Lighten4);
 
         page.Content()
             .PaddingVertical(1, Unit.Centimetre)

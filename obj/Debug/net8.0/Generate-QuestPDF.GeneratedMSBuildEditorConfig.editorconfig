@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Generate_QuestPDF
-build_property.ProjectDir = /Users/siyu/Documents/Work/2024_SideProjects/QuestPDF/Generate-QuestPDF/
+build_property.ProjectDir = /Users/siyu/Documents/WorkandSideproject/2024_SideProjects/QuestPDF/Generate-QuestPDF/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
